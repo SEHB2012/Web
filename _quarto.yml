@@ -3,13 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "Rohan Alexander"
+  title: "Sehar Bajwa"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - text: "CV"
-        href: cv-academic-Rohan_Alexander.pdf
+        href: uxresearch.pdf
 
 format:
   html:
